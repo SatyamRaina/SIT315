@@ -1,3 +1,5 @@
+//Satyam Raina
+
 int PIR = 4;
 int value = 0;
 
@@ -23,3 +25,4 @@ void loop()
   }
   delay(1000);
 }
+//Satyam Raina
